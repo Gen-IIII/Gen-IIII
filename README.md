@@ -1,32 +1,17 @@
-profile_readme:
-  version: 2.0
-  author:
-    name: "TechPhilosopher"
-    occupation: "IT Engineer & Deconstructive Analyst"
-    previous_research: "Deconstructionism in Modern Philosophy"
-  
-  intro_paragraph: |
-    Welcome to the nexus where technology meets deep thought. Here, we disassemble code and ideologies alike, questioning the binary oppositions that define our digital and metaphysical realities.
+# My Threshold
 
-  quirky_features:
-    easter_eggs:
-      - command: "think --deconstruct"
-        output: "Initiating paradigm breakdown..."
-      - command: "philosophize --random"
-        output: "Fetching a random philosophical quote..."
-    ascii_art: |
-      // Philosophical ASCII representation of the Tree of Porphyry
-           existence
-              |
-           substance
-          /       \
-       corporeal  incorporeal
-        /   \
-      living  non-living
-      /    \
-    sensible  insensible
-    /      \
-  animal  non-animal
-    ```
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gen-IIII&show_icons=true&theme=radical" />
 
-This config file incorporates both technical aspects, such as programming languages and tools, and elements of philosophical thought, such as favorite thinkers and discourse topics. It also includes quirky features like command line easter eggs and ASCII art related to philosophical concepts.
+
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gen-IIII&layout=compact&theme=dark)
+
+## Codex of Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Gen-IIII&theme=onedark" />
+
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Gen-IIII.Gen-IIII" />
+
+
+## Contact Paradox
+[![Twitter Badge](https://img.shields.io/twitter/url?label=@hkd_0&style=social&url=https%3A%2F%2Ftwitter.com%2F@hkd_0)](https://twitter.com/@hkd_0)
