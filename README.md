@@ -13,18 +13,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Gen-IIII&theme=darkhub&no-frame=true&margin-w=30" width="600" style="transform: rotate(-10deg);" />
 </div>
 
-<!-- Erasure of traditional separators to question the idea of boundaries -->
-<!--<hr>-->
-
 <div align="center">
-  <!-- Juxtaposition of contact methods with a philosophical twist -->
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Existence-Email-darkred?style=flat-square&logo=gmail" alt="Philosopher's Mail" />
-  </a>
-  <!-- Social badge deconstructed with a label that negates its own existence -->
   <a href="https://twitter.com/@hkd_0">
     <img src="https://img.shields.io/twitter/url?label=X&style=social&url=https%3A%2F%2Ftwitter.com%2F@hkd_0" alt="Twitter Badge"/>
   </a>
-  <!-- Visitor badge presented as an existential quantifier -->
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Gen-IIII.Gen-IIII" alt="∃ビジター" />
 </div>
